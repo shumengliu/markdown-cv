@@ -6,7 +6,7 @@ title: Shumeng Liu's CV
 Software Engineer, Web Developer
 
 <div id="webaddress">
-<a href="https://www.shuyunthewf.com">blog/portfolio</a> | 
+<a href="https://www.shuyunthewf.com">personal website</a> | 
 <a href="lsmwallfacer@gmail.com">lsmwallfacer@gmail.com</a> | 
 <span>+44 7340066639</span> | 
 <span>London, UK</span> | 
@@ -18,7 +18,7 @@ Becoming an AWS Certified Developer - Associate and working on side projects.
 
 ## Specialized in
 
-Web development, Cloud Technologies (esp. AWS), Frontend Development, CI/CD
+Web development, Cloud Technologies (esp. AWS), Frontend Development, and CI/CD
 
 ## Skills
 ### Programming languages
@@ -33,12 +33,12 @@ VS Code, ChatGPT, Vim, Trello, Android Studio, GitHub Desktop
 `2019 - 2022`
 __King's College London, London, UK__
 - Bachelor of Science (Hons) in Computer Science (Artificial Intelligence)
-- *First Class Honours*
+- _**First Class Honours**_
 
 `2015 - 2019`
 __Suzhou Industrial Park Foreign Language School, Suzhou, China__
 - International Baccalaureate
-- Grade: 40/45 bilingual diploma
+- _**Grade: 40/45 bilingual diploma**_
 
 ## Certifications
 `Dec. 2022`
@@ -47,7 +47,7 @@ AWS Certified Solutions Architect - Associate
 ## [Projects](https://www.shuyunthewf.com/projects)
 
 ### Lynx Bank
-- *A mock banking system with realistic look to delay scammers in action.*
+- *A realistic-looking mock banking system aimed at deterring scammers.*
 - &bull; The system includes a CMS GUI with full CRUD operations.
 - &bull; Designed and implemented the random transaction generator module with full unit testing coverage.
 - &bull; Improved the presentation of pages on account information to make the system look genuine.
@@ -65,7 +65,7 @@ AWS Certified Solutions Architect - Associate
 `2020-2021`
 __Executive Head of IT, CSSA King's (Student Society)__
 - &bull; Led a team of 20 to develop the CSSA King's WeChat Mini Program.
-- &bull; Involved in the full real-world software engineering lifecycle, from requirements elicitation to deployment and meaintenance.
+- &bull; Involved in the full real-world software engineering lifecycle, from requirements elicitation to deployment and maintainence.
 
 `2020-2021`
 __Computer Science Tutor, Lumist__
