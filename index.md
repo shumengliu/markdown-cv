@@ -75,6 +75,3 @@ __Computer Science Tutor, Lumist__
 
 ## Spoken Languages
 English (fluent), Mandarin (native), Japanese (basic), German (basic)
-
-
-
