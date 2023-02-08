@@ -14,8 +14,7 @@ Software Engineer, Web Developer
 
 ## Currently
 
-Becoming an AWS Certified Developer - Associate 
-Working on [side projects](https://www.shuyunthewf.com/projects)
+Becoming an AWS Certified Developer - Associate and working on side projects.
 
 ## Specialized in
 
