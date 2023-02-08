@@ -49,6 +49,7 @@ AWS Certified Solutions Architect - Associate
 ## [Projects](https://www.shuyunthewf.com/projects)
 
 ### Anti-scam Banking System
+` `
 - A mock banking system with realistic look to delay scammers in action.
 - The system includes a CMS GUI with full CRUD operations.
 - Designed and implemented the random transaction generator module with full unit testing coverage.
@@ -57,6 +58,7 @@ AWS Certified Solutions Architect - Associate
 - Tech stack: Ruby on Rails, MySQL and Bootstrap.
 
 ### Buddy Scheme Platform
+` `
 - A peer-pairing platform, where first-year students are matched to senior mentors. The main
 - Designed the database schema and implemented the backend using Spring Data JPA.
 - Implemented unit testing and integration testing on multiple modules.
