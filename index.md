@@ -48,7 +48,6 @@ AWS Certified Solutions Architect - Associate
 
 ## [Projects](https://www.shuyunthewf.com/projects)
 
-` `
 ### Anti-scam Banking System
 - *A mock banking system with realistic look to delay scammers in action.*
 - &bull; The system includes a CMS GUI with full CRUD operations.
@@ -76,7 +75,6 @@ __Computer Science Tutor, Lumist__
 - &bull; Taught areas include but are not limited to data structure, database, and functional programming.
 - &bull; 5 students received 90% or above in relevant coursework.
 ## Spoken Languages
-` `
 English (fluent), Mandarin (native), Japanese (basic), German (basic)
 
 
