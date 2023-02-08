@@ -65,7 +65,7 @@ AWS Certified Solutions Architect - Associate
 `2020-2021`
 __Executive Head of IT, CSSA King's (Student Society)__
 - &bull; Led a team of 20 to develop the CSSA King's WeChat Mini Program.
-- &bull; Involved in the full real-world software engineering lifecycle, from requirements elicitation to deployment and maintainence.
+- &bull; Involved in the full real-world software engineering lifecycle, from requirements elicitation to deployment and maintenance.
 
 `2020-2021`
 __Computer Science Tutor, Lumist__
