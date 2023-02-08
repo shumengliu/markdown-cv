@@ -45,10 +45,9 @@ __Suzhou Industrial Park Foreign Language School, Suzhou, China__
 `Dec. 2022`
 AWS Certified Solutions Architect - Associate 
 
-
 ## [Projects](https://www.shuyunthewf.com/projects)
 
-### Anti-scam Banking System
+### Lynx Bank
 - *A mock banking system with realistic look to delay scammers in action.*
 - &bull; The system includes a CMS GUI with full CRUD operations.
 - &bull; Designed and implemented the random transaction generator module with full unit testing coverage.
@@ -74,6 +73,7 @@ __Computer Science Tutor, Lumist__
 - &bull; Provided personal tutoring for Computer Science students from various UK universities, including Imperial College London, UCL, and Durham University.
 - &bull; Taught areas include but are not limited to data structure, database, and functional programming.
 - &bull; 5 students received 90% or above in relevant coursework.
+
 ## Spoken Languages
 English (fluent), Mandarin (native), Japanese (basic), German (basic)
 
