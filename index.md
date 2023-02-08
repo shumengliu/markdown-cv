@@ -42,11 +42,12 @@ __Suzhou Industrial Park Foreign Language School, Suzhou, China__
 - Grade: 40/45 bilingual diploma
 
 ## Certifications
-
 `Dec. 2022`
 AWS Certified Solutions Architect - Associate 
 
+
 ## [Projects](https://www.shuyunthewf.com/projects)
+
 ### Anti-scam Banking System
 - A mock banking system with realistic look to delay scammers in action.
 - The system includes a CMS GUI with full CRUD operations.
@@ -54,12 +55,14 @@ AWS Certified Solutions Architect - Associate
 - Improved the presentation of pages on account information to make the system look genuine.
 - The workflow followed agile principles and used Kanban board as the primary task allocation tool.
 - Tech stack: Ruby on Rails, MySQL and Bootstrap.
+
 ### Buddy Scheme Platform
 - A peer-pairing platform, where first-year students are matched to senior mentors. The main
 - Designed the database schema and implemented the backend using Spring Data JPA.
 - Implemented unit testing and integration testing on multiple modules.
 - Hosted multiple progress meetings with the client for requirements elicitation and prototype review.
 - Tech stack: SpringBoot, SpringMVC, JPA and PostgreSQL.
+
 ## Experiences
 `2020-2021`
 __Executive Head of IT, CSSA King's (Student Society)__
