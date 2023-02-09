@@ -38,7 +38,7 @@ __King's College London, London, UK__
 `2015 - 2019`
 __Suzhou Industrial Park Foreign Language School, Suzhou, China__
 - International Baccalaureate
-- _**Grade: 40/45 bilingual diploma**_
+- _**Grade: 40/45 bilingual diploma**_ incl. Mathematics HL 7, Economics HL 7 and Chemistry HL 6
 
 ## Certifications
 `Dec. 2022`
