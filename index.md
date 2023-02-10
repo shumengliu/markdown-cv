@@ -38,7 +38,8 @@ __King's College London, London, UK__
 `2015 - 2019`
 __Suzhou Industrial Park Foreign Language School, Suzhou, China__
 - International Baccalaureate
-- _**Grade: 40/45 bilingual diploma**_ incl. Mathematics HL 7, Economics HL 7 and Chemistry HL 6
+- _**Grade: 40/45 bilingual diploma**_ 
+- including Mathematics HL 7, Economics HL 7 and Chemistry HL 6
 
 ## Certifications
 `Dec. 2022`
@@ -48,9 +49,9 @@ AWS Certified Solutions Architect - Associate
 
 ### Lynx Bank
 - *A realistic-looking mock banking system aimed at deterring scammers.*
-- &bull; The system includes a CMS GUI with full CRUD operations.
+- &bull; Full CRUD operations enabled through RESTful API.
+- &bull; The system includes a CMS with filtering and sorting capabilities on the GUI.
 - &bull; Designed and implemented the random transaction generator module with full unit testing coverage.
-- &bull; Improved the presentation of pages on account information to make the system look genuine.
 - &bull; The workflow followed agile principles and used Kanban board as the primary task allocation tool.
 - Tech stack: Ruby on Rails, MySQL and Bootstrap.
 
