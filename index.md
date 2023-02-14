@@ -12,10 +12,6 @@ Software Engineer, Web Developer
 <span>London, UK</span> | 
 </div>
 
-## Currently
-
-Becoming an AWS Certified Developer - Associate and working on side projects.
-
 ## Specialized in
 
 Web development, Cloud Technologies (esp. AWS), Frontend Development, and CI/CD
@@ -42,6 +38,8 @@ __Suzhou Industrial Park Foreign Language School, Suzhou, China__
 - including Mathematics HL 7, Economics HL 7 and Chemistry HL 6
 
 ## Certifications
+`Feb. 2023`
+AWS Certified Developer - Asscociate
 `Dec. 2022`
 AWS Certified Solutions Architect - Associate 
 
