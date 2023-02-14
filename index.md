@@ -20,7 +20,7 @@ Web development, Cloud Technologies (esp. AWS), Frontend Development, and CI/CD
 ### Programming languages
 Java, Javascript, Python, C++, Ruby, Scala, HTML, CSS
 ### Technologies
-AWS, Git, RESTful API, Next.js, Tailwind, MVC Architecture, CI/CD
+AWS, Git, RESTful API, Next.js, Tailwind, TDD, MVC Architecture, CI/CD
 ### Tools
 VS Code, ChatGPT, Vim, Trello, Android Studio, GitHub Desktop 
 
