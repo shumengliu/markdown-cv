@@ -39,10 +39,10 @@ __Suzhou Industrial Park Foreign Language School, Suzhou, China__
 
 ## Certifications
 `Feb. 2023`
-_AWS Certified Developer - Asscociate_
+__AWS Certified Developer - Asscociate__
 
 `Dec. 2022`
-_AWS Certified Solutions Architect - Associate_
+__AWS Certified Solutions Architect - Associate__
 
 ## [Projects](https://www.shuyunthewf.com/projects)
 
