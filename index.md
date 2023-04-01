@@ -46,7 +46,7 @@ __AWS Certified Solutions Architect - Associate__
 ## [Projects](https://www.shuyunthewf.com/projects)
 
 ### Compiler in Scala
-- *Used Scala to compile a naive functional language that includes conditionals, functions, and loops into LLVM-IR.*
+- *Developed a Scala-based compiler that compiles a naive functional language with conditionals, functions, and loops into LLVM-IR.*
 - &bull; Implemented lexer, parser, type checker and code generator modules.
 - &bull; Implemented the Sulzmann & Lu algorithm to create a lexer that uses derivatives of regular expressions.
 - &bull; Designed an intermediate language to facilitate transformation into LLVM-IR. The intermediate language uses CPS (Continuation Passing Style) to optimize the handling of nested function calls.
